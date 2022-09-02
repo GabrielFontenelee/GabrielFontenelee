@@ -1,4 +1,4 @@
-### I'm currently working on Robot Arm 🔭
+### I'm currently working on Robotic 🔭
 
 <!--
 **GabrielFontenelee/GabrielFontenelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
